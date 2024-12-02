@@ -1,0 +1,14 @@
+G:\3kyrs\1sem\c#lab\IteratorPattern\bin\Debug\net8.0\IteratorPattern.exe
+G:\3kyrs\1sem\c#lab\IteratorPattern\bin\Debug\net8.0\IteratorPattern.deps.json
+G:\3kyrs\1sem\c#lab\IteratorPattern\bin\Debug\net8.0\IteratorPattern.runtimeconfig.json
+G:\3kyrs\1sem\c#lab\IteratorPattern\bin\Debug\net8.0\IteratorPattern.dll
+G:\3kyrs\1sem\c#lab\IteratorPattern\bin\Debug\net8.0\IteratorPattern.pdb
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfoInputs.cache
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\IteratorPattern.AssemblyInfo.cs
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\IteratorPattern.csproj.CoreCompileInputs.cache
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\IteratorPattern.dll
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\refint\IteratorPattern.dll
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\IteratorPattern.pdb
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\IteratorPattern.genruntimeconfig.cache
+G:\3kyrs\1sem\c#lab\IteratorPattern\obj\Debug\net8.0\ref\IteratorPattern.dll
